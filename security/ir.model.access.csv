@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_inventario_expandido_clave_sat,inventario_expandido.clave_sat,model_inventario_expandido_clave_sat,,1,1,1,1
